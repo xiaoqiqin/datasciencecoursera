@@ -1,2 +1,2 @@
-# test3
-second test
+# datasciencecoursera
+This is for the project of Data Science course in Coursera.
